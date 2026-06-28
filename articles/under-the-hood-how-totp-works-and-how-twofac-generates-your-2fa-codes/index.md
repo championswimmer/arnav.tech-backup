@@ -1,3 +1,10 @@
+---
+title: "Under the Hood: How 2FA TOTP Authenticator Apps Work"
+slug: under-the-hood-how-totp-works-and-how-twofac-generates-your-2fa-codes
+datePublished: Sun, 08 Mar 2026 17:28:04 GMT
+cover: ./images/a892724b-811e-4c96-aafb-4d49bc1f927f.png
+tags: kotlin, cryptography, otp, security, two-factor authentication, 2fa
+---
 # Under the Hood: How 2FA TOTP Authenticator Apps Work
 
 In the [previous article](https://arnav.tech/architecting-twofac-my-journey-into-kotlin-multiplatform-module-structure), I walked through how TwoFac is structured as a Kotlin Multiplatform project. Now that the architecture is in place, it's time to zoom into one of the most important pieces inside that shared core: the actual OTP generation. Ever wondered what actually happens when you open your authenticator app and see a 6-digit code counting down? Most of us just copy-paste it and move on, but there's some pretty elegant cryptography happening behind the scenes. In this post, I'm going to crack open the hood on **TOTP** — Time-based One-Time Passwords — explain the math, walk through the RFCs, and then show you exactly how we implement it in TwoFac.

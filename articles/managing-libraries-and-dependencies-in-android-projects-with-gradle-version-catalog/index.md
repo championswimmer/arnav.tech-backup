@@ -1,3 +1,10 @@
+---
+title: "Managing libraries and dependencies in Android projects with Gradle version catalog"
+slug: managing-libraries-and-dependencies-in-android-projects-with-gradle-version-catalog
+datePublished: Tue, 26 Apr 2022 09:48:08 GMT
+cover: ./images/pe58JFNYa.png
+tags: android, gradle, kotlin, java, android-studio
+---
 ## Managing libraries and dependencies in Android projects with Gradle version catalog
 
 In large multi-module Android (or for that matter any gradle-based) project, version management starts to become a bit of a pain. 

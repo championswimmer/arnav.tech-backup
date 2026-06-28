@@ -1,3 +1,10 @@
+---
+title: "Validating Github Actions Workflow files in Jetbrains IDEs"
+slug: validating-github-actions-workflow-files-in-jetbrains-ides
+datePublished: Tue, 27 Dec 2022 10:07:43 GMT
+cover: ./images/0bf22059d88e90616fd3707bd88c0483.jpeg
+tags: github-actions, webstorm, jetbrains, validation, json-schema
+---
 # Validating Github Actions Workflow files in Jetbrains IDEs
 
 If you maintain projects on [Github](https://github.com), you must have come across [Github Actions](https://github.com/features/actions) - which is Github's own CI provider where you can greate workflow files in `.github/workflow/<xyz>.yml` and get Github to build your project, run lint, test PRs, deploy to releases etc.

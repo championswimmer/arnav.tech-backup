@@ -1,3 +1,10 @@
+---
+title: "Using Howdy on Linux like Windows Hello"
+slug: using-howdy-on-linux-like-windows-hello
+datePublished: Wed, 03 Jun 2026 19:50:20 GMT
+cover: ./images/220c7300-80d9-4f61-8282-d17b39a45323.png
+tags: face authentication, pam.d, libpam, sudo, howdy, ubuntu
+---
 # Using Howdy on Linux like Windows Hello
 
 

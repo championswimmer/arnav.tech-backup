@@ -1,3 +1,10 @@
+---
+title: "Creating and Publishing Visual Studio Code Color Themes"
+slug: creating-and-publishing-visual-studio-code-color-themes
+datePublished: Wed, 21 Dec 2022 10:27:32 GMT
+cover: ./images/dHbvd6zEym.jpeg
+tags: visual studio code, vscode extensions, node.js, javascript, web development
+---
 # Creating and Publishing Visual Studio Code Color Themes
 
 Visual Studio Code has this in-built color theme called **Quiet Light** which I absolutely love, as I prefer using mostly light themes when coding in the day, when my room is filled with light.

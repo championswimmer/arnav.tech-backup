@@ -1,3 +1,10 @@
+---
+title: "Publishing a Kotlin Multiplatform Project in all platforms (Win, Mac, Linux, JVM, JS) with Github Actions"
+slug: publishing-a-kotlin-multiplatform-project-in-all-platforms-win-mac-linux-jvm-js-with-github-actions
+datePublished: Mon, 02 Jan 2023 14:12:31 GMT
+cover: ./images/12a3ca8297c32a29370036d360881f9f.jpeg
+tags: github-actions, kotlin, multiplatform, open source
+---
 # Publishing a Kotlin Multiplatform Project in all platforms (Win, Mac, Linux, JVM, JS) with Github Actions
 
 So I recently made a Parking Lot CLI program (the kind of ones you make for low-level system design interview questions). You can check the following terminal recording.

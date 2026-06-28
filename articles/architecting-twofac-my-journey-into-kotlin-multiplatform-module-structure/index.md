@@ -1,3 +1,10 @@
+---
+title: "Architecting TwoFac: My Journey into Kotlin Multiplatform Module Structure"
+slug: architecting-twofac-my-journey-into-kotlin-multiplatform-module-structure
+datePublished: Tue, 03 Mar 2026 01:44:20 GMT
+cover: ./images/0458cc78-ce8c-4b2b-a899-c4990cb67e64.png
+tags: kotlin, kotlin multiplatform, compose, otp verification, authentication, security, password manager
+---
 # Architecting TwoFac: My Journey into Kotlin Multiplatform Module Structure
 
 In my [previous post](https://arnav.tech/my-next-project-building-the-open-source-cross-platform-authenticator-i-always-wanted), I talked about why I'm building **TwoFac**. The short version? I got tired of proprietary "digital cages" like Authy and wanted an authenticator that was open, secure, and—most importantly—everywhere I am.
