@@ -1,0 +1,11 @@
+{
+  "name": "arnav-tech-backup",
+  "version": "1.0.0",
+  "description": "Blog page backups from arnav.tech",
+  "private": true,
+  "pi": {
+    "skills": [
+      ".pi/skills"
+    ]
+  }
+}
